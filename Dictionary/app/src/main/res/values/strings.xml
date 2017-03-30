@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dict</string>
+    <string-array name="Names">
+        <item>Aish</item>
+        <item>Nandu</item>
+        <item>Ganesh</item>
+        <item>Kaartic</item>
+        <item>Abhi</item>
+        <item>Adalene</item>
+        <item>Arch</item>
+        <item>Swat</item>
+        <item>Aksh</item>
+        <item>Aarthi</item>
+        <item>Aparna</item>
+        <item>santa</item>
+        <item>Ramya</item>
+        <item>Smrithi</item>
+        <item>Petricieyah</item>
+        <item>Radha</item>
+        <item>Punitha</item>
+        <item>Mohankumar</item>
+        <item>Raju</item>
+        <item>Leena</item>
+        <item>Jenifer</item>
+        <item>Laksh</item>
+        <item>Chirag</item>
+        <item>Bhav</item>
+    </string-array>
+</resources>
